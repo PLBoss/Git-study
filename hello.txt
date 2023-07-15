@@ -15,7 +15,8 @@ hello git ,study in 7.14
 modefy
 hot-fix
 
+hot-fix second-commit
 hello fox
 
 
-hello 
+hello
